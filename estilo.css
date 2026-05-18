@@ -1,0 +1,68 @@
+
+
+.pepe{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(36, 7, 225);
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.juan{
+    width: 100%;
+    height: 100%;
+    background-color: blueviolet;
+    
+
+}
+
+.inicio{
+    color: black;
+    font-weight: bold;
+    margin-right: 100px;
+    font-size: 40px;
+    
+   
+    
+}
+
+.ropa{
+    color: black;
+    font-weight: bold;
+    margin-right: 100px;
+    font-size: 40px;
+   
+    margin-top: 20px;
+
+}
+
+.contactos{
+    color: black;
+    font-weight: bold;
+    margin-right: 100px;
+    font-size: 40px;
+    justify-content: space-between;
+    
+   
+}
+
+span:hover{
+    cursor: pointer;
+}
+
+.navegador input{
+    padding: 10px;
+    margin-top: 30px;
+   
+}
+
+.ventana1{
+    border-radius: 50px;
+    height: 40%;
+}
